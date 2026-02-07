@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image.png" style="max-width: 80%; height: auto;" />
+  <img src="image.webp" />
 </div>
 
 
